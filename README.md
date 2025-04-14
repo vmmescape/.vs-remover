@@ -16,3 +16,17 @@ Once compiled and run, you’ll see a menu:
 3) View exclusions
 4) Test run (show what would be deleted)
 5) Exit
+
+
+1️⃣ Clean .vs directories
+Deletes all found .vs folders from the root search path (C:\ by default), skipping excluded ones.
+
+2️⃣ Add exclusion path
+Appends a new exclusion to excluded.txt.
+Example: C:\\Users\duh\Desktop\usermode ( it has to be C:\\ instead of C:\ )
+
+3️⃣ View exclusions
+Displays the currently loaded exclusion list.
+
+4️⃣ Test run
+Shows which .vs folders would be deleted without deleting them.
