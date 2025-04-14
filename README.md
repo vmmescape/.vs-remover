@@ -44,9 +44,11 @@ Shows which .vs folders would be deleted without deleting them.
 🧼 Sample Output
 
 WILL BE DELETED: C:\Projects\MyApp\.vs (450 MB)
+
 EXCLUDED (will NOT be deleted): C:\Users\duh\Desktop\usermode\.vs (120 MB)
 
 Deleted 1 .vs directories (450 MB)
+
 Preserved 1 excluded directories (120 MB)
 
 
