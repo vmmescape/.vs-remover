@@ -30,7 +30,7 @@ Deletes all found .vs folders from the root search path (C:\ by default), skippi
 
 2️⃣ Add exclusion path
 Appends a new exclusion to excluded.txt.
-Example: C:\\Users\duh\Desktop\usermode ( it has to be C:\\ instead of C:\ )
+Example: C:\\\Users\duh\Desktop\usermode ( it has to be C:\\ instead of C:\ )
 
 3️⃣ View exclusions
 Displays the currently loaded exclusion list.
