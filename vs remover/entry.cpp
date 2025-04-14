@@ -292,7 +292,7 @@ int main( )
         case 2: 
         {
             std::string path;
-            std::cout << "Enter path to exclude: ";
+            std::cout << "Enter path to exclude ( Example: C:\\Users\duh\Desktop\usermode ): ";
             std::getline( std::cin, path );
 
             add_exclusion( path, txt );
